@@ -1,9 +1,6 @@
 # State-Space Modeling and Feedback Control of a Reaction-Wheel Attitude System
 
-**Technical Note — In Progress (2026)**
-
-This technical note accompanies the Spacecraft Dynamics project and investigates
-state-space modeling and feedback control for spacecraft attitude dynamics using
+This publication investigates state-space modeling and feedback control for spacecraft attitude dynamics using
 reaction-wheel actuation.
 
 ## Planned Scope
