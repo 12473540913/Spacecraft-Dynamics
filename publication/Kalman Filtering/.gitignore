@@ -1,0 +1,7 @@
+build/*.pdf
+build/*.aux
+build/*.log
+build/*.out
+__pycache__/
+*.py[cod]
+.DS_Store
